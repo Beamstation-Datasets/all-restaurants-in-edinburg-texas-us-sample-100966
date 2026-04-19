@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Edinburg, Texas with a population of over 100k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Edinburg, Texas, US",
-  "export_job_id": "443315ae-7090-4c67-a376-e21be5803577",
+  "export_job_id": "e46e31fb-1c4c-4974-9211-739921b0bcc4",
   "github_org": "Beamstation-Datasets",
   "id_short": 100966,
   "location_name": "Edinburg",
   "location_type": "city",
   "repo_name": "all-restaurants-in-edinburg-texas-us-sample-100966",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/100966/beamstation_100966_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.83,
+  "sample_pct": 9.76,
   "sample_records": 29,
-  "sample_sha256": "84b660172c0a1c7cc835612a8ea8b5f5469f6825a09484499dd84d01ca6b9578",
-  "sample_size_bytes": 125208,
-  "total_records": 295,
-  "updated_at": "2026-04-09T14:22:05.517427+00:00"
+  "sample_sha256": "022e72c1d723e8977ecfd9c0dde96ff92df4da96bb494fafcd130d98475483f0",
+  "sample_size_bytes": 94476,
+  "total_records": 297,
+  "updated_at": "2026-04-16T15:27:51.100753+00:00"
 }
