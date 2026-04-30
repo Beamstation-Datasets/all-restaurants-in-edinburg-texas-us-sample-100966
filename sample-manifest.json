@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bf2ef25c-4198-4d36-8f48-372b7804e690",
+  "export_job_id": "9fc0a040-0fba-479f-a7a7-1dd6b71afb7b",
   "id_short": 100966,
-  "published_at": "2026-04-23T19:17:40Z",
+  "published_at": "2026-04-30T19:03:19Z",
   "repo_name": "all-restaurants-in-edinburg-texas-us-sample-100966",
   "sample_asset_name": "beamstation_100966_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/100966/beamstation_100966_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "cf35c2c7d819ca4404e0642d60d226859f540525a7b48a9fc27a9e7eab5d1036",
-  "sample_size_bytes": 83614,
-  "total_records": 240
+  "sample_records": 33,
+  "sample_sha256": "325f36e229d5cae70dafb08d80bcc2788dcaa74e76ed85398a1c10d24c879dee",
+  "sample_size_bytes": 135333,
+  "total_records": 332
 }
